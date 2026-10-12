@@ -1,0 +1,6 @@
+﻿gradio==6.30.0
+onnxruntime
+tokenizers
+numpy
+scipy
+psutil
